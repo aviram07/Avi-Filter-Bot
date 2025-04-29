@@ -6,23 +6,17 @@ pymongo[srv]==3.12.3
 motor==2.5.1
 marshmallow==3.14.1
 requests
-bs4
+beautifulsoup4  # replaces bs4
 git+https://github.com/Joelkb/cinemagoer
-datetime
+datetime  # Note: This is part of Python's standard library and usually doesn't need to be listed
 pytz
 aiohttp
-cinemagoer
-shortzy
-
-PyLeaves==1.0.2
-cinemagoer
 shortzy==0.0.8
+PyLeaves==1.0.2
 aiofiles
 pyromod==1.5
-
 telegraph
-openai==1.65.0
-
+openai
 jinja2
 apscheduler
 pyshorteners
