@@ -1,4 +1,4 @@
-pyrofork==2.3.43
+pyrofork==2.3.45
 python-telegram-bot
 umongo
 tgcrypto
@@ -21,7 +21,7 @@ aiofiles
 pyromod==1.5
 
 telegraph
-openai
+openai==1.65.0
 
 jinja2
 apscheduler
